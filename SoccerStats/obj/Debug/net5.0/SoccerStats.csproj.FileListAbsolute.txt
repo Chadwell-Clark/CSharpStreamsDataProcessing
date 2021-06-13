@@ -16,3 +16,6 @@ C:\Users\Chad\workspace\csharp\SoccerStats\SoccerStats\obj\Debug\net5.0\ref\Socc
 C:\Users\Chad\workspace\csharp\SoccerStats\SoccerStats\obj\Debug\net5.0\SoccerStats.pdb
 C:\Users\Chad\workspace\csharp\SoccerStats\SoccerStats\obj\Debug\net5.0\SoccerStats.genruntimeconfig.cache
 C:\Users\Chad\workspace\csharp\SoccerStats\SoccerStats\bin\Debug\net5.0\SoccerGameResults.csv
+C:\Users\Chad\workspace\csharp\SoccerStats\SoccerStats\bin\Debug\net5.0\players.json
+C:\Users\Chad\workspace\csharp\SoccerStats\SoccerStats\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Chad\workspace\csharp\SoccerStats\SoccerStats\obj\Debug\net5.0\SoccerStats.csproj.CopyComplete
